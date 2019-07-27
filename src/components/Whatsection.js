@@ -30,7 +30,7 @@ const Whatsection = () =>{
                 <div class="item">
                     <i class="fas fa-cloud fa-2x"></i>
                     <div>
-                    <h3>Cloud Devlopment Expers</h3>
+                    <h3>Cloud Devlopment Experts</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, voluptatum!</p>
                     </div>
                 </div>
